@@ -73,7 +73,7 @@ public class SnakeLadderGame
 		}
 		
 		END_POINT--;
-		System.out.println("Ladder Came  "+ COUNT2+" times");
+		System.out.println("Ladder Came  "+ COUNT1+" times");
 		System.out.println("Snake Came  "+ COUNT2+" times");
 	  }
 		
